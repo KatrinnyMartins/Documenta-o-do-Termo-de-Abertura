@@ -1,2 +1,2 @@
-# Documenta-o-do-Termo-de-Abertura
+# Documentação-do-Termo-de-Abertura
 Documento do Termo de Abertura
